@@ -1,8 +1,6 @@
-
+![logo](https://github.com/Srijanaadhikary/Srijanaadhikary/blob/main/datascience.gif)
 <h1 align="center">Hi 👋, I'm Srijana Adhikary</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
-<img align=“right” alt="coding” width="400" src=”https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWhPSkdnNmNaamcxeVFlR0ZzNUtoT1pkbFlQUXxBQ3Jtc0tuSDlidHQ0TEN2d0dERzRjMy1UM3NQNWRZangyUFE2SG5HWks0V0VpaS0tN0ZkN20wTE1xeW95dVd1SGpUSF9ra1h4TUhTZzJmYlI5QS1BVk9JMXI4Z2VTd2NDZkpXcU5Ob1B5QmlXd2w3aDcybFBZNA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
